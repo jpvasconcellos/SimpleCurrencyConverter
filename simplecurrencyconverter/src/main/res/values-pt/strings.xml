@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Conversor de Moedas Simples</string>
+    <string name="AUD">Dólar australiano</string>
+    <string name="BGN">Lev búlgaro</string>
+    <string name="CAD">Dólar canadense</string>
+    <string name="CHF">Franco suíço</string>
+    <string name="CNY">Iuane chinês</string>
+    <string name="CZK">Coroa tcheca</string>
+    <string name="DKK">Coroa dinamarquesa</string>
+    <string name="GBP">Libra esterlina</string>
+    <string name="HKD">Dólar de Hong Kong</string>
+    <string name="HRK">Kuna croata</string>
+    <string name="HUF">Forint da Hungria</string>
+    <string name="IDR">Rupia da Indonésia</string>
+    <string name="ILS">Shekel de Israel</string>
+    <string name="INR">Rupia indiana</string>
+    <string name="JPY">Iene japonês</string>
+    <string name="KRW">Won sul-coreano</string>
+    <string name="MXN">Peso mexicano</string>
+    <string name="MYR">Ringgit malaio</string>
+    <string name="NOK">Coroa norueguesa</string>
+    <string name="NZD">Dólar da Nova Zelândia</string>
+    <string name="PHP">Peso filipino</string>
+    <string name="PLN">Zloty da Polônia</string>
+    <string name="RON">Leu romeno</string>
+    <string name="RUB">Rublo da Rússia</string>
+    <string name="SEK">Coroa sueca</string>
+    <string name="SGD">Dólar de Cingapura</string>
+    <string name="THB">Baht da Tailândia</string>
+    <string name="TRY">Lira turca</string>
+    <string name="USD">Dólar americano</string>
+    <string name="ZAR">Rand da África do Sul</string>
+    <string name="EUR">Euro</string>
+    <string name="BRL">Real do Brasil</string>
+    <string name="country_flag_description">Bandeira do País</string>
+    <string name="is_equivalent_to">é equivalente a</string>
+    <string name="network_error_title">Sem conexão</string>
+    <string name="network_error_message">Não consigo recuperar as cotações.\nSe sua internet está funcionando corretamente, por favor tente novamente.\nOu feche o aplicativo e tente novamente mais tarde.</string>
+    <string name="network_dialog_positive_button">Tentar novamente</string>
+    <string name="network_dialog_negative_button">Sair</string>
+</resources>
